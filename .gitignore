@@ -1,0 +1,15 @@
+.DS_Store
+/build
+.build
+
+artifacts
+/Packages
+xcuserdata
+node_modules
+developer.xcconfig
+Carthage
+Cartfile*
+MapboxAccessToken
+
+.vscode
+Package.resolved
