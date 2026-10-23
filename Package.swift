@@ -5,7 +5,7 @@ import PackageDescription
 import Foundation
 
 let version: Version = "11.30.7"
-let checksum = "1af2c9ab24260984eb82b3bb7391e2bfd0f6981041dddfc0e885e7c0dfa01341"
+let checksum = "54ec3cceafa827d03153f1736461b635041310ee36bd7b4def550997b2b4a0e7"
 let commonVersion: Version = "24.30.7"
 let coreMapsVersion: Version = "11.30.7"
 let turfVersion: Version = "4.0.0"
